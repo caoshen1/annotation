@@ -1,0 +1,19 @@
+{
+    "name": "baozi/annotation",
+    "description": "get class and function annotation document",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Baozi",
+            "email": "1531273950@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Baozi\\": "src/"
+        }
+    }
+}
